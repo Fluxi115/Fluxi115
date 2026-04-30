@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Fluxi115">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+en+C%23;Desarrollador+.NET+Core;Arquitecto+de+Software;Backend+Developer;Entusiasta+de+Clean+Code&font=Fira+Code&center=true&width=600&height=100&color=0078d4&vCenter=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fan+de+C%23;Desarrollador+.NET+Core;Arquitecto+de+Software;Backend+Developer;Entusiasta+de+Clean+Code&font=Fira+Code&center=true&width=600&height=100&color=0078d4&vCenter=true&size=35">
   </a>
 </p>
 
