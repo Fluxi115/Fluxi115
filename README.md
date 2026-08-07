@@ -109,29 +109,7 @@ Me gusta construir aplicaciones:
 
 ---
 
-# 🐍 Snake Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Fluxi115/Fluxi115/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📫 Contacto
-
-<p align="center">
-
-<a href="https://github.com/Fluxi115">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
+# 📫 Contacto <p align="center"> <a href="mailto:perzdzib.115@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/> </a> &nbsp;&nbsp; <a href="https://github.com/Fluxi115"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/fluxi.115/"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/> </a> </p>
 
 ---
 
