@@ -49,6 +49,9 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fluxi115&show_icons=true&theme=dark&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluxi115&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fluxi115&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluxi115&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
