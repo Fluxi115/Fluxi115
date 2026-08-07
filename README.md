@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-Hola 👋 Soy Fluxi115
+Hola 👋 Soy Fluxi
 </h1>
 
 <p align="center">
