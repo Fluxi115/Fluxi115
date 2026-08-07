@@ -1,57 +1,142 @@
+<!-- ============================== -->
+<!--        FLUXI115 PROFILE        -->
+<!-- ============================== -->
+
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
+<h1 align="center">
+Hola 👋 Soy Fluxi115
+</h1>
+
+<p align="center">
+Desarrollador Backend especializado en C# y .NET
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fluxi115">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+en+C%23;Desarrollador+.NET+Core;Arquitecto+de+Software;Backend+Developer;Entusiasta+de+Clean+Code&font=Fira+Code&center=true&width=600&height=100&color=0078d4&vCenter=true&size=35">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=C%23+Developer;.NET+8+Developer;Backend+Engineer;Clean+Architecture;Software+Architect;Microservices+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Fluxi115?label=Followers&style=for-the-badge&color=0078d4" />
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=OPEN%20TO%20WORK&style=for-the-badge&color=2ea44f" />
+
+<img src="https://img.shields.io/github/followers/Fluxi115?style=for-the-badge&color=0078d4"/>
+
+<img src="https://img.shields.io/github/stars/Fluxi115?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
+<img src="https://komarev.com/ghpvc/?username=Fluxi115&style=for-the-badge&color=0078d4"/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-success?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 Sobre Mí
+# 🚀 Sobre mí
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>Soy un desarrollador apasionado por el ecosistema de Microsoft, enfocado en crear soluciones robustas, escalables y de alto rendimiento.</p>
-      <ul>
-        <li> 🎯 <b>Lenguaje Principal:</b> C# (.NET Core / .NET 8).</li>
-        <li> 🏗️ <b>Arquitectura:</b> Clean Architecture & Design Patterns.</li>
-        <li> 🛠️ <b>Base de Datos:</b> SQL Server & Entity Framework Core.</li>
-        <li> 📈 <b>Meta:</b> Optimización de sistemas distribuidos y microservicios.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp6Znd6NHR6NHR6NHR6NHR6NHR6NHR6NHR6NHR6NHR6NHR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslxGqQA7Z7unB/giphy.gif" width="220" />
-    </td>
-  </tr>
-</table>
+Soy un desarrollador Backend apasionado por el ecosistema Microsoft.
 
----
+Me gusta construir aplicaciones:
 
-## 🛠️ Stack Tecnológico
+- ⚡ Escalables
+- 🏗 Basadas en Clean Architecture
+- 🚀 De alto rendimiento
+- 🔥 Con código limpio y mantenible
 
-| Categoria | Herramientas |
-| :--- | :--- |
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Data** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![EF](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
+### Actualmente trabajo con
+
+- C#
+- .NET 8
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Microservicios
+- REST APIs
+- Clean Architecture
+- Design Patterns
 
 ---
 
-## 📊 Estadísticas
+# 💻 Stack Tecnológico
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fluxi115&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,azure,postgres,mysql,redis,linux&perline=6"/>
+
 </p>
 
+---
+
+# 📊 Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluxi115&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fluxi115&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluxi115&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fluxi115&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fluxi115&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fluxi115&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Snake Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Fluxi115/Fluxi115/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="https://github.com/Fluxi115">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Gracias por visitar mi perfil ❤️
+
 </p>
