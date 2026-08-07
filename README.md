@@ -89,16 +89,6 @@ Me gusta construir aplicaciones:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fluxi115&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Actividad
 
 <p align="center">
